@@ -10,5 +10,3 @@ keterangan berupa deskripsi keunggulan
 
 ## database
 lakukan import file *.sql ke dalam database bernama user otomatis akan tercipta 3 tables beserta datanya. ![tables](images/db.jpg)
-
-## Tess
